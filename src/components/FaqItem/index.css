@@ -1,0 +1,36 @@
+/* Write your code here. */
+.list-item {
+  border-radius: 10px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #d7dae6;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin: 10px;
+  margin-left: -10px;
+}
+.image {
+  width: 20px;
+  height: 20px;
+}
+.button {
+  background-color: transparent;
+  border-style: none;
+}
+.subb {
+  display: flex;
+  justify-content: space-between;
+}
+.answer-para {
+  color: #9aa5b1;
+  font-family: 'Roboto';
+}
+
+.horixontal {
+  color: #d7dae6;
+}
+.para {
+  color: #52606d;
+  font-family: 'Roboto';
+  font-size: 20px;
+}
